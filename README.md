@@ -1,4 +1,4 @@
-#**PAYE**
+#PAYE
 
 
 
@@ -20,4 +20,4 @@ Transpile paye.ts to Js:
 
 Run paye.ts: `node paye.js` 
 
-**Angular PAYE SPA coming soon: tba**
+**Angular PAYE**
